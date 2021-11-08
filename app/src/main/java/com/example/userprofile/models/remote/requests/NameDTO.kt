@@ -1,4 +1,4 @@
-package com.example.userprofile
+package com.example.userprofile.models.remote.requests
 
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable

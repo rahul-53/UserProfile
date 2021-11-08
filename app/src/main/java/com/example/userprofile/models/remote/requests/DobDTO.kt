@@ -1,9 +1,9 @@
-package com.example.userprofile
+package com.example.userprofile.models.remote.requests
 
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable
 
-data class RegisteredDTO(
+data class DobDTO(
 
 	@field:SerializedName("date")
 	val date: String? = null,
